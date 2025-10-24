@@ -23,7 +23,7 @@ The workflow covers:
 ---
 
 ## 🗂️ Project Structure
-
+```
 cmse802_project/
 │
 ├── src/ # Core Python source code
