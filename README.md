@@ -1,5 +1,5 @@
 # 🌀 CMSE802 Final Project  
-**Python-Based Simulation and Prediction of Vortex Shedding Behind a Circular Cylinder**
+**Flow Characterization and Data-Driven Modeling of Cylinder Vortex Shedding**
 
 Author: **Arnab Mustafi Arka**  
 Course: **CMSE 802 – Computational Modeling for Engineers**  
