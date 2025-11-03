@@ -56,10 +56,8 @@ cmse802_project/
 │ └── predicted_regions.png
 │
 ├── tests/ # Pytest-based validation suite
-│ ├── test_data_loader.py
-│ ├── test_regression_model.py
-│ ├── test_random_forest_model.py
-│ ├── test_energy_check.py
+│ ├── test_data_validation.py
+│ ├── test_environment.py
 │ └── init.py
 │
 ├── docs/ # Reports and documentation
