@@ -3,8 +3,7 @@
 
 Author: **Arnab Mustafi Arka**  
 Course: **CMSE 802 – Computational Modeling for Engineers**  
-Semester: **Fall 2025**  
-Advisor: *Dr. Ricardo Mejia-Alvarez*  
+Semester: **Fall 2025**   
 
 ---
 
